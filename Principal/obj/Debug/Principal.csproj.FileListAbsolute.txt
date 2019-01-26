@@ -1,0 +1,22 @@
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Principal.exe.config
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Principal.exe
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Principal.pdb
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Kaktura.exe
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Kaktura.pdb
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\obj\Debug\Principal.Principal.resources
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\obj\Debug\Principal.exe
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\obj\Debug\Principal.pdb
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\OtroProceso.exe
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Proceso.exe
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Resultado.exe
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\OtroProceso.pdb
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Proceso.pdb
+c:\users\pascual\documents\visual studio 2015\Projects\Principal\Principal\bin\Debug\Resultado.pdb
+C:\Users\soul_\source\repos\Principal\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
+C:\Users\soul_\source\repos\Principal\Principal\obj\Debug\Principal.Principal.resources
+C:\Users\soul_\source\repos\Principal\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\soul_\source\repos\Principal\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\soul_\source\repos\Principal\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache

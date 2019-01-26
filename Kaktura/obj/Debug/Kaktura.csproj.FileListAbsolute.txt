@@ -1,0 +1,22 @@
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Kaktura.exe.config
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Kaktura.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Kaktura.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\obj\Debug\Kaktura.csprojResolveAssemblyReference.cache
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\obj\Debug\Kaktura.Kaktura.resources
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\obj\Debug\Kaktura.Properties.Resources.resources
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\obj\Debug\Kaktura.csproj.GenerateResource.Cache
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\obj\Debug\Kaktura.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\obj\Debug\Kaktura.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Principal.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Principal.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Proceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\OtroProceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Resultado.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Proceso.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\OtroProceso.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Kaktura\bin\Debug\Resultado.pdb
+C:\Users\soul_\source\repos\Principal\Kaktura\obj\Debug\Kaktura.csprojAssemblyReference.cache
+C:\Users\soul_\source\repos\Principal\Kaktura\obj\Debug\Kaktura.Kaktura.resources
+C:\Users\soul_\source\repos\Principal\Kaktura\obj\Debug\Kaktura.Properties.Resources.resources
+C:\Users\soul_\source\repos\Principal\Kaktura\obj\Debug\Kaktura.csproj.GenerateResource.cache
+C:\Users\soul_\source\repos\Principal\Kaktura\obj\Debug\Kaktura.csproj.CoreCompileInputs.cache

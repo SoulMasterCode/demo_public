@@ -1,0 +1,22 @@
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Proceso.exe.config
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Proceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Proceso.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Principal.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Kaktura.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Principal.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Kaktura.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\obj\Debug\Proceso.csprojResolveAssemblyReference.cache
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\obj\Debug\Proceso.LblProceso.resources
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\obj\Debug\Proceso.Properties.Resources.resources
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\obj\Debug\Proceso.csproj.GenerateResource.Cache
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\obj\Debug\Proceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\obj\Debug\Proceso.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\OtroProceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Resultado.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\OtroProceso.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Proceso\bin\Debug\Resultado.pdb
+C:\Users\soul_\source\repos\Principal\Proceso\obj\Debug\Proceso.LblProceso.resources
+C:\Users\soul_\source\repos\Principal\Proceso\obj\Debug\Proceso.Properties.Resources.resources
+C:\Users\soul_\source\repos\Principal\Proceso\obj\Debug\Proceso.csproj.GenerateResource.cache
+C:\Users\soul_\source\repos\Principal\Proceso\obj\Debug\Proceso.csproj.CoreCompileInputs.cache
+C:\Users\soul_\source\repos\Principal\Proceso\obj\Debug\Proceso.csprojAssemblyReference.cache

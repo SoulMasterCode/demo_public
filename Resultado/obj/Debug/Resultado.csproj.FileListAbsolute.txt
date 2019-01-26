@@ -1,0 +1,21 @@
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Resultado.exe.config
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Resultado.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Resultado.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Principal.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Kaktura.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Principal.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Kaktura.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\obj\Debug\Resultado.csprojResolveAssemblyReference.cache
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\obj\Debug\Resultado.Properties.Resources.resources
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\obj\Debug\Resultado.Resultado.resources
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\obj\Debug\Resultado.csproj.GenerateResource.Cache
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\obj\Debug\Resultado.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\obj\Debug\Resultado.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Proceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\OtroProceso.exe
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\Proceso.pdb
+c:\Users\PASCUAL\documents\visual studio 2015\Projects\Principal\Resultado\bin\Debug\OtroProceso.pdb
+C:\Users\soul_\source\repos\Principal\Resultado\obj\Debug\Resultado.Properties.Resources.resources
+C:\Users\soul_\source\repos\Principal\Resultado\obj\Debug\Resultado.Resultado.resources
+C:\Users\soul_\source\repos\Principal\Resultado\obj\Debug\Resultado.csproj.GenerateResource.cache
+C:\Users\soul_\source\repos\Principal\Resultado\obj\Debug\Resultado.csproj.CoreCompileInputs.cache
